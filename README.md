@@ -12,5 +12,7 @@ GettingandCleaningData-Project
   2) data_set_with_the_averages.txt  -- 0.225 Mb, a 180x68 data frame
 
   in RStudio run:
+  
   setwd("C:\\\\Users\\\\DELL\\\\Desktop\\\\CleaningDataProject\\\\UCI HAR Dataset\\\\")
+  
   source("run_analysis.R")
